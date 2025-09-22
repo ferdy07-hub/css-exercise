@@ -1,0 +1,18 @@
+.par{
+    background-color: #f57177;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#content{
+    color:blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#conten-itore{
+    background-color: lightgreen;
+    font-weight: bold;
+}
